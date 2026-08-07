@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.2/Rune-v0.2.2.zip",
-  "sha256": "ccb0794dd1d4fa53fe923912b7d0f30e62bc33aacc93042d499077f0bf67af26",
-  "notes": "Le fil raconte la mission : chaque agent s'annonce et rend compte, depliable. Le mode Libre ne redemande plus. La jauge de contexte dit vrai. Les fleches de l'accueil font ce qu'elles promettent. Un demarrage regarde toujours s'il existe une mise a jour."
+  "version": "0.2.3",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.3/Rune-v0.2.3.zip",
+  "sha256": "e08ed1a6be8192cb82d065a75e180a1ea67865ded4fbdb6ae6cd9d64ddef2787",
+  "notes": "Le mode prompt ne perd plus la dictee. RuneBrain dessine ses noeuds. Une fleche de l'accueil depose la consigne au lieu de lancer cinq agents. Un incident se range d'une croix."
 }
