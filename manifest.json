@@ -1,6 +1,6 @@
 {
-  "version": "0.2.26",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.26/Rune-v0.2.26.zip",
-  "sha256": "ee889dc068fc363d47d6ba72b2dc648f3ca6b7b954acc0d8d632608d281eb732",
-  "notes": "Rune regarde s'il y a du neuf sans attendre un redemarrage."
+  "version": "0.2.27",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.27/Rune-v0.2.27.zip",
+  "sha256": "8259fbd5c413c0e7e5cc3a45d057073052349d315b900f19d3fbfae5ef6d0620",
+  "notes": "Dans le doute, Rune parle au lieu de lancer une equipe d'agents."
 }
