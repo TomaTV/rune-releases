@@ -1,6 +1,6 @@
 {
-  "version": "0.2.20",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.20/Rune-v0.2.20.zip",
-  "sha256": "1dfa3428ecac8723129dd38a9882dc5f2eb8afe084041f233ec9037a13bb0880",
-  "notes": "La mise a jour se pose sans fenetre noire, et se montre. Le tube `tasklist | find` faisait creer une console par Windows, qu'aucun drapeau ne cachait — les cinq combinaisons ont ete mesurees. Il n'y en a plus. Et l'installation annonce ou elle en est au lieu de fermer l'application sans un mot."
+  "version": "0.2.21",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.21/Rune-v0.2.21.zip",
+  "sha256": "33f15fac0f64acb08a3e1fff37117668590f1cb43a3f7e0497d9971255161a4f",
+  "notes": "La voix clonee remarche : les deux moities de cffi viennent enfin du meme endroit."
 }
