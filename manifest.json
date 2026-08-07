@@ -1,6 +1,6 @@
 {
-  "version": "0.2.15",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.15/Rune-v0.2.15.zip",
-  "sha256": "e1e3cc814d307d702fda10ba31567daceb4021ccb81890895534e1d8161432d6",
-  "notes": "La meteo trouve la ville dans ce que Rune a retenu : les deux memoires se parlent enfin."
+  "version": "0.2.16",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.16/Rune-v0.2.16.zip",
+  "sha256": "1c9358c0d67154de89e1a66bea6914ef8e6b3fd8634cd0533df559e511c5d834",
+  "notes": "La mise a jour se pose depuis l'exterieur : Rune ne peut pas remplacer un fichier que son propre chargeur Python tient ouvert."
 }
