@@ -1,6 +1,6 @@
 {
-  "version": "0.2.29",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.29/Rune-v0.2.29.zip",
-  "sha256": "3abae5ca5ce9a10296f5f500b3530a0c798c5474907120f53ba5faf8d2c9bfea",
-  "notes": "Le poseur de mise a jour passe en PowerShell : plus rien a cacher."
+  "version": "0.2.30",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.30/Rune-v0.2.30.zip",
+  "sha256": "290bcdaafb4aade1cd3092ac8a121bfa97c5e68bbf00bfebf4855efe231b0cba",
+  "notes": "Les phrases d'un mot ne vont plus au modele, et deux debris SQL quittent les tournures apprises."
 }
