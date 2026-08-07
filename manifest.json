@@ -1,6 +1,6 @@
 {
-  "version": "0.2.28",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.28/Rune-v0.2.28.zip",
-  "sha256": "a4573e95cfdc27baff93b01e387b803f9a5c4dfc431a9f3cd3b7efab0536a806",
-  "notes": "Plus de fenetres pendant l'installation, la ville retenue sert enfin, et le minuteur se dit autrement."
+  "version": "0.2.29",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.29/Rune-v0.2.29.zip",
+  "sha256": "3abae5ca5ce9a10296f5f500b3530a0c798c5474907120f53ba5faf8d2c9bfea",
+  "notes": "Le poseur de mise a jour passe en PowerShell : plus rien a cacher."
 }
