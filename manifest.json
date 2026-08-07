@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.1/Rune-v0.2.1.zip",
-  "sha256": "d98844ef92244a897e6676cbf003c016984f36f0f42b2317d6c16aa4c5940d6f",
-  "notes": "Une tache s'ouvre en pleine page, un agent ouvre sa conversation. Un journal d'ecriture perime ne tronque plus la base. Le mode prompt marche aussi dans la fenetre de Rune."
+  "version": "0.2.2",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.2/Rune-v0.2.2.zip",
+  "sha256": "d5c7e730fbee16f7a160d2895d683764204361fa6543294e2d28d754176c5758",
+  "notes": "Le fil raconte la mission : chaque agent s'annonce et rend compte, depliable. Le mode Libre ne redemande plus. La jauge de contexte dit vrai. Les fleches de l'accueil font ce qu'elles promettent. Un demarrage regarde toujours s'il existe une mise a jour."
 }
