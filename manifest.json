@@ -1,6 +1,6 @@
 {
-  "version": "0.2.22",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.22/Rune-v0.2.22.zip",
-  "sha256": "9f76e02b212a060cdc3dcb5e70703c9becffa91202e0dfb4c7c78e2b19c7d43a",
-  "notes": "La voix clonee ne depend plus de l'ordre de demarrage."
+  "version": "0.2.23",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.23/Rune-v0.2.23.zip",
+  "sha256": "8c07c01705d598c95f4fab2627939e45c085c1d63e17b6e73e01116e97a9daec",
+  "notes": "Le bonjour sort tout de suite, et le rognage de la queue tourne enfin."
 }
