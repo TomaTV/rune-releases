@@ -1,6 +1,6 @@
 {
-  "version": "0.2.23",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.23/Rune-v0.2.23.zip",
-  "sha256": "8c07c01705d598c95f4fab2627939e45c085c1d63e17b6e73e01116e97a9daec",
-  "notes": "Le bonjour sort tout de suite, et le rognage de la queue tourne enfin."
+  "version": "0.2.24",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.24/Rune-v0.2.24.zip",
+  "sha256": "0c31d5b5c3a6a685cd8c243cda955a5ee0bbc20e25d31b15aced53c0d187e9dc",
+  "notes": "Le mode prompt ne prend plus l'accuse de lancement pour une reponse."
 }
