@@ -1,6 +1,6 @@
 {
-  "version": "v0.2.17",
+  "version": "0.2.17",
   "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.17/Rune-v0.2.17.zip",
   "sha256": "162d856e6809f47baa963e539f43959898326a9fff5aab2b35a58346aca80b0b",
-  "notes": "Ce que Rune retient, il l'entend maintenant. |  | Les noms propres d'un fait retenu entrent au vocabulaire, et les faits | d'avant sont rattrapes au demarrage. Les mots que Rune attend lui-meme — | « meteo », « dictee », « mission » — passent devant tout le reste. Une | ville introuvable qui ressemble a une ville connue est rattrapee, puis | apprise en regle. Et les corrections faites a la main s'appliquent enfin | a ce qu'on lui dit de vive voix, pas seulement a la dictee. | "
+  "notes": "Ce que Rune retient, il l'entend maintenant. Les noms propres d'un fait retenu entrent au vocabulaire, et les faits d'avant sont rattrapes au demarrage. Les mots que Rune attend lui-meme — « meteo », « dictee », « mission » — passent devant tout le reste. Une ville introuvable qui ressemble a une ville connue est rattrapee, puis apprise en regle. Et les corrections faites a la main s'appliquent enfin a ce qu'on lui dit de vive voix, pas seulement a la dictee."
 }
