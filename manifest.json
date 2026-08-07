@@ -1,6 +1,6 @@
 {
-  "version": "0.2.11",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.11/Rune-v0.2.11.zip",
-  "sha256": "ede6907265048e98fab584a94f76dc628c1b039848825447713e11291001e33f",
-  "notes": "RuneBrain dessine enfin. Onze defauts trouves par un audit adverse : six NameError silencieux, l'interface gelee 45 s, une sauvegarde amputee, une conversation qui pouvait reecrire du code."
+  "version": "0.2.12",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.12/Rune-v0.2.12.zip",
+  "sha256": "549b19f17ba49383882b4cc4327c4685cc4cd0ca739ce3fb9dc8fc6e8d06d6b4",
+  "notes": "Le graphe ne repart plus a chaque clic et sa fiche se ferme. « OK, mode prompt » est reconnu. Une tendance de la Sentinelle se range. Les connexions SQLite des fils morts se ferment."
 }
