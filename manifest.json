@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.4/Rune-v0.2.4.zip",
-  "sha256": "a9f678caa503557be5fb722a6b5bd2c732db4c71e99b0e5c7b78d5722cb5ecda",
-  "notes": "Un enregistrement qu'on ne sait pas transcrire ne se rejoue plus sans fin. Les outils d'une rafale tiennent dans un seul bloc. « Arreter » ne s'affiche que s'il reste quelque chose a arreter. Un fait retenu a la voix apparait tout de suite."
+  "version": "0.2.5",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.5/Rune-v0.2.5.zip",
+  "sha256": "f6e481d5ba9afcd6d69f55e1394ce0b1ddf45346959c78736a5576de43830cdf",
+  "notes": "La queue que la voix clonee ajoute apres le dernier mot est coupee par alignement, sans retarder le premier son."
 }
