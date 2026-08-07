@@ -1,6 +1,6 @@
 {
-  "version": "0.2.12",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.12/Rune-v0.2.12.zip",
-  "sha256": "549b19f17ba49383882b4cc4327c4685cc4cd0ca739ce3fb9dc8fc6e8d06d6b4",
-  "notes": "Le graphe ne repart plus a chaque clic et sa fiche se ferme. « OK, mode prompt » est reconnu. Une tendance de la Sentinelle se range. Les connexions SQLite des fils morts se ferment."
+  "version": "0.2.13",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.13/Rune-v0.2.13.zip",
+  "sha256": "528f886529003d0199c8eb418d09cffe3062e9e496952f8c6fe12b4514bdcb56",
+  "notes": "L'installation ne meurt plus sur une DLL chargee. La molette du graphe reprend la main. Les phrases courtes de la voix sont enfin rognees."
 }
