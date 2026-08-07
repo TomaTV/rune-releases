@@ -1,6 +1,6 @@
 {
-  "version": "0.2.16",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.16/Rune-v0.2.16.zip",
-  "sha256": "1c9358c0d67154de89e1a66bea6914ef8e6b3fd8634cd0533df559e511c5d834",
-  "notes": "La mise a jour se pose depuis l'exterieur : Rune ne peut pas remplacer un fichier que son propre chargeur Python tient ouvert."
+  "version": "0.2.17",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.17/Rune-v0.2.17.zip",
+  "sha256": "bc994d38e83cb6e0e23b8bdf6d505241b7494448b2ae2c33fe5ada01f1738ce6",
+  "notes": "Ce que Rune retient, il l'entend maintenant : les noms propres d'un fait entrent au vocabulaire, les mots des commandes passent devant, une ville mal entendue est rattrapee puis apprise, et les corrections faites a la main valent enfin pour la voix."
 }
