@@ -1,6 +1,6 @@
 {
-  "version": "0.2.18",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.18/Rune-v0.2.18.zip",
-  "sha256": "aa27db3f38b3f879560f963144879a8a4262938b4253e55855efd377e7465022",
-  "notes": "La mise a jour se pose enfin toute seule. Le poseur ne demarrait pas : un retour chariot de trop par ligne, et le script batch ne se refermait plus. Il attend maintenant ce processus-ci et non tous les Rune.exe de la machine, renonce plutot que d'installer a moitie, et ne laisse plus 230 Mo derriere lui quand il echoue. Et le depot tourne sur une machine neuve : les tests qui supposaient Spotify installe, les modeles ou une identite git se sautent en le disant."
+  "version": "0.2.19",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.19/Rune-v0.2.19.zip",
+  "sha256": "a6baa72952a151b92fb74a081a3fef895ad7d54f0a573b65fa477eb2cf048630",
+  "notes": "La voix dit enfin pourquoi elle se tait — et elle se tait moins. Quand la voix clonee ne charge pas, Rune nomme ce qui manque au lieu de rendre la main en silence, et parle avec une autre voix pour cette phrase plutot que de ne rien dire. Le reglage, lui, ne bouge pas."
 }
