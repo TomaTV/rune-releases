@@ -1,6 +1,6 @@
 {
-  "version": "0.2.27",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.27/Rune-v0.2.27.zip",
-  "sha256": "8259fbd5c413c0e7e5cc3a45d057073052349d315b900f19d3fbfae5ef6d0620",
-  "notes": "Dans le doute, Rune parle au lieu de lancer une equipe d'agents."
+  "version": "0.2.28",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.28/Rune-v0.2.28.zip",
+  "sha256": "a4573e95cfdc27baff93b01e387b803f9a5c4dfc431a9f3cd3b7efab0536a806",
+  "notes": "Plus de fenetres pendant l'installation, la ville retenue sert enfin, et le minuteur se dit autrement."
 }
