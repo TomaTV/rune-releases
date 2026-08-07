@@ -1,6 +1,6 @@
 {
-  "version": "0.2.5",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.5/Rune-v0.2.5.zip",
-  "sha256": "f6e481d5ba9afcd6d69f55e1394ce0b1ddf45346959c78736a5576de43830cdf",
-  "notes": "La queue que la voix clonee ajoute apres le dernier mot est coupee par alignement, sans retarder le premier son."
+  "version": "0.2.6",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.6/Rune-v0.2.6.zip",
+  "sha256": "67456b6404536201a08e622d9c330bd2d3a999bb2963e2e640df6600389305a7",
+  "notes": "Le bouton « Installer » joint enfin Python, et l'exe en cours se renomme au lieu d'etre ecrase. RuneBrain lit le vrai depot au lieu de son exemple."
 }
