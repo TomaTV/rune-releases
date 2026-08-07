@@ -1,6 +1,6 @@
 {
-  "version": "0.2.14",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.14/Rune-v0.2.14.zip",
-  "sha256": "f015ed6f4e5f39a6582595e5fba86fe15b83c98d2d5e32d53cb3005c8836fd32",
-  "notes": "Une installation qui echoue ne casse plus Rune : chaque fichier s'ecrit a cote puis bascule d'un coup, au lieu d'etre vide puis rempli."
+  "version": "0.2.15",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.15/Rune-v0.2.15.zip",
+  "sha256": "e1e3cc814d307d702fda10ba31567daceb4021ccb81890895534e1d8161432d6",
+  "notes": "La meteo trouve la ville dans ce que Rune a retenu : les deux memoires se parlent enfin."
 }
