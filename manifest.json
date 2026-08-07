@@ -1,6 +1,6 @@
 {
-  "version": "0.2.21",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.21/Rune-v0.2.21.zip",
-  "sha256": "33f15fac0f64acb08a3e1fff37117668590f1cb43a3f7e0497d9971255161a4f",
-  "notes": "La voix clonee remarche : les deux moities de cffi viennent enfin du meme endroit."
+  "version": "0.2.22",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.22/Rune-v0.2.22.zip",
+  "sha256": "9f76e02b212a060cdc3dcb5e70703c9becffa91202e0dfb4c7c78e2b19c7d43a",
+  "notes": "La voix clonee ne depend plus de l'ordre de demarrage."
 }
