@@ -1,6 +1,6 @@
 {
-  "version": "0.2.7",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.7/Rune-v0.2.7.zip",
-  "sha256": "70c62b1a494182a8cad20d89d0e988467277aa0cea33ee6268049cab06415e75",
-  "notes": "Correction d'urgence : la 0.2.6 s'ouvrait sur une fenetre vide."
+  "version": "0.2.8",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.8/Rune-v0.2.8.zip",
+  "sha256": "d0f09900fe7ff5aa6dcdbc792700047f49bb0b396bffadc4477f06812b876a80",
+  "notes": "La fleche de la Sentinelle change d'ecran. Un relecteur sait ou l'executant ecrit. Texte plus grand, commandes sur une ligne, verdicts qui passent retires."
 }
