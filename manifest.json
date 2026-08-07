@@ -1,6 +1,6 @@
 {
-  "version": "0.2.9",
-  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.9/Rune-v0.2.9.zip",
-  "sha256": "0933cebd14ca0e63f006fdc5d7c11b525ad1c98a9bb690d8fcfe951b7a31a0c1",
-  "notes": "Un relecteur part apres la recolte, sur le vrai depot. Une base saine n'est plus remplacee parce qu'un autre processus l'a ouverte. L'accueil tient sur deux colonnes en grand ecran. Une question posee par un agent s'affiche."
+  "version": "0.2.10",
+  "url": "https://github.com/TomaTV/rune-releases/releases/download/v0.2.10/Rune-v0.2.10.zip",
+  "sha256": "f3ae1a67a070589df00d86133ae438f57612145af3f4ae1f31ae4de8cd252e57",
+  "notes": "Le guetteur entend une voix calme dans une piece ordinaire : 78,6 % -> 89,3 % de reveils, mesure sur tes enregistrements. L'accueil prend toute la largeur."
 }
